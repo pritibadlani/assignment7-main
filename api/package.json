@@ -8,7 +8,7 @@
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jainam Sheth",
+  "author": "Priti Badlani",
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^2.21.0",
